@@ -99,3 +99,17 @@ ls
 cd codedeploy/
 ls
 cat codedeploy-appsec.yml 
+ls
+sudo git init
+sudo apt-get insatll git
+sudo apt -get insatll git
+sudo yum insatll git
+sudo yum install git
+sudo git --version
+git init
+git add .
+git commit -m "code pipeline"
+git push origin master
+git push -u origin master
+git push origin master  
+git push -u origin maaster
