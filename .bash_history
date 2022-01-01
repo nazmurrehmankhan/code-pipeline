@@ -113,3 +113,16 @@ git push origin master
 git push -u origin master
 git push origin master  
 git push -u origin maaster
+git add .
+git commit -m "Add"
+git push origin master 
+git push origin master
+git remote https://github.com/nazmurrehmankhan/code-pipeline.git
+git remote add origin https://github.com/nazmurrehmankhan/code-pipeline.git
+git add .
+git add .
+git commit -m "Add"
+git push -u origin main
+git remote add origin https://github.com/nazmurrehmankhan/code-pipeline.git
+git push origin master 
+git push origin master
