@@ -5,7 +5,7 @@ files:
     destination: /home/ec2-user/codedeploy
 hooks:
   BeforeInstall:
-    - location: /home/ec2-user/codedeploy/prog1.sh
+    - location: /home/ec2-user/prog1.sh
       timeout: 300
       runas: root
  
