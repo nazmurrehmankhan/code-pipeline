@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :q!
-|2,0,1641048377,,"q!"
+|2,0,1641282964,,"q!"
 
 # Search String History (newest to oldest):
 
@@ -26,14 +26,18 @@
 
 # File marks:
 '0  1  0  ~/.git/MERGE_MSG
-|4,48,1,0,1641048377,"~/.git/MERGE_MSG"
+|4,48,1,0,1641282964,"~/.git/MERGE_MSG"
+'1  1  0  ~/.git/MERGE_MSG
+|4,49,1,0,1641048377,"~/.git/MERGE_MSG"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/MERGE_MSG
+|4,39,1,0,1641282964,"~/.git/MERGE_MSG"
 -'  1  0  ~/.git/MERGE_MSG
 |4,39,1,0,1641048377,"~/.git/MERGE_MSG"
 
 # History of marks within files (newest to oldest):
 
 > ~/.git/MERGE_MSG
-	*	1641048374	0
+	*	1641282961	0
 	"	1	0
