@@ -126,3 +126,63 @@ git push -u origin main
 git remote add origin https://github.com/nazmurrehmankhan/code-pipeline.git
 git push origin master 
 git push origin master
+sudo apt-get update
+git add .
+git commit -m "add"
+git push origin master
+ls
+cd codedeploy/
+ls
+cd ..
+pwd
+cd codedeploy/
+ls
+mv codedeploy-appsec.yml /home/ec2-user/
+sudo mv codedeploy-appsec.yml /home/ec2-user/
+ls
+cd ..
+ls
+git add codedeploy-appsec.yml 
+git commit -m  "new"
+git push origin master
+git pull origin master 
+git add codedeploy-appsec.yml 
+git commit -m "name"
+git status
+git add .
+git commit -m "change"
+git push origin master
+git status
+cd /opt/
+ls
+cd codedeploy-agent/
+ls
+cd deployment-root/
+ls
+sudo touch appsec.yml
+sudo nano appsec.yml 
+tail -f /var/log/aws/codedeploy-agent/codedeploy-agent.log
+ls
+cd codedeploy/
+ls
+cd /opt/
+ls
+cd codedeploy-agent/
+ls
+cd deployment-root/
+ls
+sudo nano appsec.yml 
+sudo mv appsec.yml appspec.yml
+ls
+tail -f /var/log/aws/codedeploy-agent/codedeploy-agent.log
+sudo codedeploy_agent restart
+sudo  servicecodedeploy_agent restart
+sudo service codedeploy-agent status
+sudo service codedeploy-agent stop
+sudo service codedeploy-agent status
+sudo service codedeploy-agent start
+sudo service codedeploy-agent status
+tail -f /var/log/aws/codedeploy-agent/codedeploy-agent.log
+sudo yum info codedeploy-agent
+sudo dpkg -s codedeploy-agent
+sudo nano appspec.yml 
